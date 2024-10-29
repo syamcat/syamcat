@@ -8,12 +8,17 @@
 
             // img 요소에 URL을 동적으로 설정
             const imgElement = document.getElementById("streak-stats");
-            imgElement.src = `https://streak-stats.demolab.com?user=syamcat&theme=tokyonight&hide_border=true&border_radius=3&locale=${userLocale}&date_format=%5BY%20%5DM%20j&card_width=400&card_height=180`;
+            
+            let currentSrc = imgElement.src;
+            currentSrc = currentSrc.replace(/locale=\w{2}/, `locale=${userLocale.slice(0, 2)}`); // 언어 코드만 반영 (ko, en 등)
+
+            // src 속성을 업데이트합니다.
+            imgElement.src = currentSrc;
         });
 </script>
 
 <picture>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=syamcat&theme=tokyonight&hide_border=true&border_radius=3&locale=ko&date_format=%5BY%20%5DM%20j&card_width=400&card_height=180" alt="GitHub Streak" align=right /></a>
+  <a href="https://git.io/streak-stats"><img id="streak-stats" src="https://streak-stats.demolab.com?user=syamcat&theme=tokyonight&hide_border=true&border_radius=3&locale=en&date_format=%5BY%20%5DM%20j&card_width=400&card_height=180" alt="GitHub Streak" align=right /></a>
 </picture>
 
 ### University
