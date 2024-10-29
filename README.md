@@ -5,17 +5,19 @@
   <a href="https://git.io/streak-stats"><img id="streak-stats" src="https://streak-stats.demolab.com?user=syamcat&theme=tokyonight&hide_border=true&border_radius=3&locale=en&date_format=%5BY%20%5DM%20j&card_width=400&card_height=180" alt="GitHub Streak" align=right /></a>
 </picture>
 
-### University
+### University ###
 
 - Korea National Open Univ. (2022.03 ~ )
 - Kunsan National Univ. (2019.03 ~ 2022.01)
 
-### Bootcamp
+### Bootcamp ###
 
 - Metaverse Academy(2024.06 ~ )
 - 42Seoul Cadet(2022.07 ~ 2023.04)
 
-My Skills:
+<br/>
+
+## Skills ##
 
 **Language**
 
@@ -65,8 +67,9 @@ My Skills:
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 </p>
 
+<br/>
 
-## Projects
+## Projects ##
 
 **Now**
 
