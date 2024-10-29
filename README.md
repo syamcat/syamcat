@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Syamcat's%20github&section=header&textBg=false&fontSize=60&fontAlign=70&fontAlignY=31&animation=fadeIn)
-# Syamcat 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=syamcat.readme) [![wakatime](https://wakatime.com/badge/user/1cf75f2c-c73f-4493-b9ab-6e0a11fa7fdb.svg)](https://wakatime.com/@1cf75f2c-c73f-4493-b9ab-6e0a11fa7fdb)
+# Syamcat 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=syamcat.readme) ![wakatime](https://wakatime.com/badge/user/1cf75f2c-c73f-4493-b9ab-6e0a11fa7fdb.svg)
 
 <picture>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=syamcat&theme=tokyonight&hide_border=true&border_radius=3&date_format=%5BY%20%5DM%20j&card_width=400&card_height=180" alt="GitHub Streak" align=right /></a>
