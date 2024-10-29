@@ -83,7 +83,7 @@
 <hr>
 <h3 align=right>Contact me</h3>
 
-<p align=right><a href="https://github.com/syamcat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/도현-김-a86136271/?locale=ja_JP"><img alt="" src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white' /></a> <a href="https://x.com/Gaon333" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" target="_blank"/> </a>
+<p align=right> <a href="https://www.linkedin.com/in/도현-김-a86136271/?locale=ja_JP"><img alt="" src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white' /></a> <a href="https://x.com/Gaon333" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" target="_blank"/> </a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+GitHub" alt="Typing SVG" align=center /></a>
 
