@@ -72,8 +72,8 @@ My Skills:
 **History**
 
 <table><thead align=center><tr border: none;><td><b>🚀 Projects</b></td><td><b>👥 People</b></td><td><b>🛫 Create At</b></td><td><b>🪂 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE target=_blank><b>VoiceTuner</b></a></td><td><img alt="Contributors" src="https://img.shields.io/github/contributors/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE
-?style=flat&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr><tr><td><a href=https://github.com/Practice-i5/EatIT target=_blank><b>EatIT</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank></a></td><td><img alt="Contributors" src="https://img.shields.io/github/contributors/Practice-i5/EatIT
-?style=flat&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr></tr></tbody></table>
+?style=flat&labelColor=343b41"></td><td>09/06/2024</td><td>09/25/2024</td></tr><tr><td><a href=https://github.com/Practice-i5/EatIT target=_blank><b>EatIT</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank></a></td><td><img alt="Contributors" src="https://img.shields.io/github/contributors/Practice-i5/EatIT
+?style=flat&labelColor=343b41"></td><td>07/12/2024</td><td>07/30/2024</td></tr></tr></tbody></table>
 
 **Contact me**
 
