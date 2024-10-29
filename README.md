@@ -17,7 +17,11 @@
 
 <br/>
 
-## Skills ##
+### Skills ###
+
+<picture>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamcat&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Streak" align=right /></a>
+</picture>
 
 **Language**
 
@@ -26,9 +30,6 @@
   <img alt="c" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
 </p>
 
-<picture>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamcat&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Streak" align=right /></a>
-</picture>
 
 **Framework**
 
