@@ -74,11 +74,98 @@
 
 **Now**
 
-<table><thead align=center><tr border: none;><td><b>Name</b></td><td><b>🔔 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody><tr><td><a href=https://github.com/MetaPolyChat/PolyChat-BE><b>MetaPolyChat</b></a></td><td><a href=https://github.com/MetaPolyChat/PolyChat-BE/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/MetaPolyChat/PolyChat-BE?style=flat&labelColor=343b41"></a></td><td><a href=https://github.com/MetaPolyChat/PolyChat-BE/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/MetaPolyChat/PolyChat-BE?style=flat&labelColor=343b41"></a></td><td><a href=https://github.com/MetaPolyChat/PolyChat-BE/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/MetaPolyChat/PolyChat-BE?style=flat&labelColor=343b41"></a></tr><td><a href=https://github.com/Mtvs-FinalProject/backend><b>Cubic</b></a></td><td><a href=https://github.com/Mtvs-FinalProject/backend/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/Mtvs-FinalProject/backend?style=flat&labelColor=343b41"></a></td><td><a href=https://github.com/Mtvs-FinalProject/backend/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Mtvs-FinalProject/backend?style=flat&labelColor=343b41"></a></td><td><a href=https://github.com/Mtvs-FinalProject/backend/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/Mtvs-FinalProject/backend?style=flat&labelColor=343b41"></a></td></tr><tr></tr></tbody></table>
+<table>
+  <thead align=center>
+    <tr border: none;>
+      <td><b>Name</b></td>
+      <td><b>🔔 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+      <td><b>💡 Last Commit</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href=https://github.com/syamcat/BOJ><b>Algorithm</b></a>
+      </td>
+      <td>
+        <a href=https://github.com/syamcat/BOJ/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/syamcat/BOJ?style=flat&labelColor=343b41"></a>
+      </td>
+      <td>
+        <a href=https://github.com/syamcat/BOJ/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/syamcat/BOJ?style=flat&labelColor=343b41"></a>
+      </td>
+      <td>
+        <a href=https://github.com/syamcat/BOJ/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/syamcat/BOJ?style=flat&labelColor=343b41"></a>
+    </tr>
+  </tbody>
+</table>
 
 **History**
 
-<table><thead align=center><tr border: none;><td><b>Name</b></td><td><b>👥 People</b></td><td><b>🛫 Create At</b></td><td><b>🪂 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE target=_blank><b>VoiceTuner</b></a></td><td><a href=https://github.com/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE/contributors target=_blank><img alt="Contributors" src="https://img.shields.io/github/contributors/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE?style=flat&labelColor=343b41"></a></td><td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE"></td><td>09/25/2024</td></tr><tr><td><a href=https://github.com/Practice-i5/EatIT target=_blank><b>EatIT</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank></a></td><td><a href=https://github.com/Practice-i5/EatIT/contributors target=_blank><img alt="Contributors" src="https://img.shields.io/github/contributors/Practice-i5/EatIT?style=flat&labelColor=343b41"></a></td><td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Practice-i5/EatIT"></td><td>07/30/2024</td></tr></tr></tbody></table>
+<table>
+  <thead align=center>
+    <tr border: none;>
+      <td><b>Name</b></td>
+      <td><b>👥 People</b></td>
+      <td><b>🛫 Create At</b></td>
+      <td><b>🪂 Last Active At</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- PolyChat -->
+    <tr>
+      <td>
+        <a href=https://github.com/MetaPolyChat/PolyChat-BE><b>MetaPolyChat</b></a>
+      </td>
+      <td>
+        <a href=https://github.com/MetaPolyChat/PolyChat-BE/contributors target=_blank><img alt="Contributors" src="https://img.shields.io/github/contributors/MetaPolyChat/PolyChat-BE?style=flat&labelColor=343b41"></a>
+      </td>
+      <td>
+        <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/MetaPolyChat/PolyChat-BE">
+      </td>
+      <td>01/04/2025</td>
+    </tr>
+    <!-- Cubic -->
+    <tr>
+      <td>
+        <a href=https://github.com/Mtvs-FinalProject/backend><b>Cubic</b></a>
+      </td>
+      <td>
+        <a href=https://github.com/Mtvs-FinalProject/backend/contributors target=_blank><img alt="Contributors" src="https://img.shields.io/github/contributors/Mtvs-FinalProject/backend?style=flat&labelColor=343b41"></a>
+      </td>
+      <td>
+        <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Mtvs-FinalProject/backend">
+      </td>
+      <td>11/29/2024</td>
+    </tr>
+    <!-- VoiceTuner -->
+    <tr>
+      <td>
+        <a href=https://github.com/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE target=_blank><b>VoiceTuner</b></a>
+      </td>
+      <td>
+        <a href=https://github.com/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE/contributors target=_blank><img alt="Contributors" src="https://img.shields.io/github/contributors/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE?style=flat&labelColor=343b41"></a>
+      </td>
+      <td>
+        <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE">
+      </td>
+      <td>09/25/2024</td>
+    </tr>
+    <!-- EatIT -->
+    <tr>
+      <td>
+        <a href=https://github.com/Practice-i5/EatIT target=_blank><b>EatIT</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank></a>
+      </td>
+      <td>
+        <a href=https://github.com/Practice-i5/EatIT/contributors target=_blank><img alt="Contributors" src="https://img.shields.io/github/contributors/Practice-i5/EatIT?style=flat&labelColor=343b41"></a>
+      </td>
+      <td>
+        <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Practice-i5/EatIT">
+      </td>
+      <td>07/30/2024</td>
+    </tr>
+  </tbody>
+</table>
 
 <hr>
 <h3 align=right>Contact me</h3>
