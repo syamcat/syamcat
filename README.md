@@ -7,7 +7,7 @@
 
 ### University ###
 
-- Korea National Open Univ. (2022.03 ~ 2025.02)
+- Korea National Open Univ. (2022.03 ~ 2025.02) __B.S.__
 - Kunsan National Univ. (2019.03 ~ 2022.01)
 
 ### Bootcamp ###
