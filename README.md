@@ -87,6 +87,19 @@
   <tbody>
     <tr>
       <td>
+        <a href=https://github.com/Boram3Zo/FrontEnd><b>Chikaku-FE</b></a>
+      </td>
+      <td>
+        <a href=https://github.com/syamcat/BOJ/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/Boram3Zo/FrontEnd?style=flat&labelColor=343b41"></a>
+      </td>
+      <td>
+        <a href=https://github.com/syamcat/BOJ/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Boram3Zo/FrontEnd?style=flat&labelColor=343b41"></a>
+      </td>
+      <td>
+        <a href=https://github.com/syamcat/BOJ/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/Boram3Zo/FrontEnd?style=flat&labelColor=343b41"></a>
+    </tr>
+    <tr>
+      <td>
         <a href=https://github.com/syamcat/BOJ><b>Algorithm</b></a>
       </td>
       <td>
