@@ -20,9 +20,9 @@
 
 ### Skills ###
 
-<picture>
+<!-- <picture>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamcat&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Streak" align=right /></a>
-</picture>
+</picture> -->
 
 **Language**
 
